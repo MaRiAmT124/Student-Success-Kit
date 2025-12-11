@@ -1,0 +1,1092 @@
+LINK CHECK REPORT
+================================================================================
+
+Total URLs checked: 271
+Working: 2
+Broken: 172
+Timeout: 0
+Error: 0
+Skipped: 97
+
+
+BROKEN LINKS:
+================================================================================
+
+Text: X (Twitter)
+URL: https://x.com/Ji_1o
+Reason: Connection error
+
+Text: Linkedin
+URL: https://www.linkedin.com/in/abdoulmajid/
+Reason: Connection error
+
+Text: Website
+URL: https://www.canva.com/
+Reason: Connection error
+
+Text: Telegram
+URL: https://t.me/MjeedBakr
+Reason: Connection error
+
+Text: Website
+URL: https://www.figma.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.paste.photos/
+Reason: Connection error
+
+Text: Website
+URL: https://wasmenia.com
+Reason: Connection error
+
+Text: Website
+URL: https://www.adobe.com/products/illustrator.html
+Reason: Connection error
+
+Text: Website
+URL: https://pinetools.com/colorize-image
+Reason: Connection error
+
+Text: Website
+URL: https://www.google.com/slides/about/
+Reason: Connection error
+
+Text: Website
+URL: https://prezi.com/
+Reason: Connection error
+
+Text: Website
+URL: https://slidesgo.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.adalo.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.justinmind.com/design-templates?filter=prototype
+Reason: Connection error
+
+Text: Website
+URL: https://www.behance.net/
+Reason: Connection error
+
+Text: Website
+URL: https://arbfonts.com
+Reason: Connection error
+
+Text: Website
+URL: https://www.remove.bg/
+Reason: Connection error
+
+Text: Website
+URL: https://www.freepik.com/
+Reason: Connection error
+
+Text: Website
+URL: https://alfont.com
+Reason: Connection error
+
+Text: Website
+URL: https://mapify.ai/
+Reason: Connection error
+
+Text: Website
+URL: https://colorhunt.co/
+Reason: Connection error
+
+Text: Website
+URL: https://fonts.google.com
+Reason: Connection error
+
+Text: Website
+URL: https://convertio.co/gif-png/
+Reason: Connection error
+
+Text: Website
+URL: https://coolors.co/
+Reason: Connection error
+
+Text: Website
+URL: https://www.hackerrank.com/
+Reason: Connection error
+
+Text: Website
+URL: https://codesignal.com/
+Reason: Connection error
+
+Text: Website
+URL: https://leetcode.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.codewars.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.kaggle.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.topcoder.com/
+Reason: Connection error
+
+Text: Website
+URL: https://neetcode.io/
+Reason: Connection error
+
+Text: Website
+URL: https://coderhub.sa/
+Reason: Connection error
+
+Text: Website
+URL: https://mystery.knightlab.com
+Reason: Connection error
+
+Text: Website
+URL: https://cryptozombies.io
+Reason: Connection error
+
+Text: Website
+URL: https://flexboxfroggy.com
+Reason: Connection error
+
+Text: Website
+URL: https://sqlpd.com
+Reason: Connection error
+
+Text: Website
+URL: https://screeps.com
+Reason: Connection error
+
+Text: Website
+URL: https://www.codingame.com/
+Reason: Connection error
+
+Text: Website
+URL: https://checkio.org/
+Reason: Connection error
+
+Text: Website
+URL: https://forms.nelc.gov.sa/ar/SDA/Fuel
+Reason: Connection error
+
+Text: Website
+URL: https://play.elevatorsaga.com
+Reason: Connection error
+
+Text: Website
+URL: https://codecombat.com/
+Reason: Connection error
+
+Text: Website
+URL: https://misk.org.sa/
+Reason: Connection error
+
+Text: Website
+URL: https://programmingadvices.com/p/roadmap
+Reason: Connection error
+
+Text: Website
+URL: https://www.w3schools.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.coursera.org/
+Reason: Connection error
+
+Text: Website
+URL: https://www.edx.org/
+Reason: Connection error
+
+Text: Website
+URL: https://www.udemy.com/
+Reason: Connection error
+
+Text: ثريد طريقة التسجيل في برنامج خصم دعم الطلاب "Financial Aid"
+URL: https://x.com/Ji_1o/status/1671160799879131136
+Reason: Connection error
+
+Text: Website
+URL: https://www.khanacademy.org/
+Reason: Connection error
+
+Text: Website
+URL: https://www.linkedin.com/learning/
+Reason: Connection error
+
+Text: Website
+URL: https://www.skillshare.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.codecademy.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.datacamp.com/
+Reason: Connection error
+
+Text: Website
+URL: https://satr.codes/
+Reason: Connection error
+
+Text: Website
+URL: https://www.chegg.com/
+Reason: Connection error
+
+Text: Website
+URL: https://techcampus.com/
+Reason: Connection error
+
+Text: Website
+URL: https://codepen.io/
+Reason: Connection error
+
+Text: Website
+URL: https://roadmap.sh/
+Reason: Connection error
+
+Text: Website
+URL: https://skillsforall.com/
+Reason: Connection error
+
+Text: Website
+URL: https://medium.com/
+Reason: Connection error
+
+Text: Website
+URL: https://scrimba.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.udacity.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.geeksforgeeks.org/
+Reason: Connection error
+
+Text: Website
+URL: https://stackoverflow.com/
+Reason: Connection error
+
+Text: Website
+URL: https://pythontutor.com/
+Reason: Connection error
+
+Text: Website
+URL: https://missing.csail.mit.edu/
+Reason: Connection error
+
+Text: Website
+URL: https://typingclub.com
+Reason: Connection error
+
+Text: Website
+URL: https://paperswithcode.com/
+Reason: Connection error
+
+Text: Website
+URL: https://studybites.ai/en
+Reason: Connection error
+
+Text: Website
+URL: https://uidesign.tips/ux-tips
+Reason: Connection error
+
+Text: Website
+URL: https://uidesign.tips/ui-tips
+Reason: Connection error
+
+Text: Website
+URL: https://www.edrawmax.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.drawio.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.deepl.com/en/app
+Reason: Connection error
+
+Text: Website
+URL: https://transcribe.wreally.com/
+Reason: Connection error
+
+Text: Website
+URL: https://quizlet.com/
+Reason: Connection error
+
+Text: Website
+URL: https://apps.ankiweb.net/
+Reason: Connection error
+
+Text: Website
+URL: https://www.grammarly.com/
+Reason: Connection error
+
+Text: Website
+URL: https://pomofocus.io/
+Reason: Connection error
+
+Text: Website
+URL: https://www.forestapp.cc/
+Reason: Connection error
+
+Text: Website
+URL: https://flora.appfinca.com/
+Reason: Connection error
+
+Text: Website
+URL: https://mynoise.net/
+Reason: Connection error
+
+Text: Website
+URL: https://www.gingerlabs.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.focustodo.cn/
+Reason: Connection error
+
+Text: Website
+URL: https://www.samsung.com/global/galaxy/apps/samsung-notes/
+Reason: Connection error
+
+Text: Website
+URL: https://evernote.com/
+Reason: Connection error
+
+Text: Website
+URL: https://mystudylife.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.onenote.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.imagetotext.info/
+Reason: Connection error
+
+Text: Website
+URL: https://khotta.io/
+Reason: Connection error
+
+Text: Website
+URL: https://www.goodnotes.com/
+Reason: Connection error
+
+Text: Website
+URL: https://whimsical.com/
+Reason: Connection error
+
+Text: Website
+URL: https://xmind.app/
+Reason: Connection error
+
+Text: Website
+URL: https://www.mindmeister.com/
+Reason: Connection error
+
+Text: Android
+URL: https://workspace.google.com/marketplace/app/whimsical/287554556504
+Reason: Connection error
+
+Text: Website
+URL: https://mindnode.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.popplet.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.lucidchart.com/
+Reason: Connection error
+
+Text: Website
+URL: https://simplemind.eu/
+Reason: Connection error
+
+Text: Website
+URL: https://concepts.app/en/download
+Reason: Connection error
+
+Text: Website
+URL: https://www.drawboard.com/pdf/pdf
+Reason: Connection error
+
+Text: Website
+URL: https://www.notewise.dev/
+Reason: Connection error
+
+Text: Website
+URL: https://studiapp.co/ar
+Reason: Connection error
+
+Text: Website
+URL: https://www.overleaf.com/
+Reason: Connection error
+
+Text: Website
+URL: https://quillbot.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.textfixer.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.sanfoundry.com/1000-discrete-mathematics-questions-answers/
+Reason: Connection error
+
+Text: Website
+URL: https://www.camscanner.com/
+Reason: Connection error
+
+Text: Website
+URL: https://text-scan.com/
+Reason: Connection error
+
+Text: Website
+URL: https://www.notion.so/
+Reason: Connection error
+
+Text: قالب جاهز لتنظيم المهام
+URL: https://trello.com/b/Z4noWVeb
+Reason: Connection error
+
+Text: Website
+URL: https://trello.com/
+Reason: Connection error
+
+Text: Website
+URL: https://todoist.com/
+Reason: Connection error
+
+Text: Website
+URL: https://edu.google.com/workspace-for-education/editions/education-fundamentals/
+Reason: Connection error
+
+Text: Website
+URL: https://ticktick.com/
+Reason: Connection error
+
+Text: Website
+URL: https://education.github.com/pack
+Reason: Connection error
+
+Text: Website
+URL: https://aws.amazon.com/education/awseducate/
+Reason: Connection error
+
+Text: Website
+URL: https://www.adobe.com/creativecloud/buy/students.html
+Reason: Connection error
+
+Text: Website
+URL: https://www.autodesk.com/education/free-software/all
+Reason: Connection error
+
+Text: Website
+URL: https://azure.microsoft.com/en-us/free/students/
+Reason: Connection error
+
+Text: Website
+URL: https://www.jetbrains.com/student/
+Reason: Connection error
+
+Text: Website
+URL: https://www.tableau.com/academic/students
+Reason: Connection error
+
+Text: Website
+URL: https://youtubeplaylist.cc/
+Reason: Connection error
+
+Text: Website
+URL: https://podcast.adobe.com/enhance
+Reason: Connection error
+
+Text: Website
+URL: https://hackathonat.com/
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@metwallylabs
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@mahaali8886
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@prof.salehoqeililectures9355
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@ustathsagban
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@t.ali75
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@programmingadvices
+Reason: Connection error
+
+Text: قناة تلغرام
+URL: https://t.me/drasatolya
+Reason: Connection error
+
+Text: قناة تلغرام
+URL: https://t.me/Jii_1o
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@desoukiegypt
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://youtube.com/@tarmeez?feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@codezilla
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@procademy
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@abdullahalmehmadi
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@ghareebelshaikh
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN&feature=shared
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&feature=shared
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&feature=shared
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe&feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@ahmed_mahmuud
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLdIu69UmPK4o_7xqsKBdMyN7C5aVGN4l_&feature=shared
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLesfn4TAj57WJFn86KXOInQAsCdJlp6vl&feature=shared
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PL1BztTYDF-QNrtkvjkT6Wjc8es7QB4Gty&feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://youtube.com/@abdullahmansourali?feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://youtube.com/@waelabohamzaflutter?feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@BroCodez
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://youtube.com/@tharwatsamy?feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@CodingWithJohn
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://youtube.com/@ammaralkhatib?feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@Fireship
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://youtube.com/@abdul_bari?feature=shared
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp&feature=shared
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLAwv14VhKVaa1A6nAaNb7i78t9cFOUwBB&feature=shared
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PL_kUZz_5GV58APr1xRJNP4zRZ1uNk4Ke1&feature=shared
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@AdelNasim
+Reason: Connection error
+
+Text: قائمة تشغيل
+URL: https://youtube.com/playlist?list=PLwCMLs3sjOY6KH-8c9F-lMWn-r02hyoV_&feature=shared
+Reason: Connection error
+
+Text:    PDF
+URL: https://drive.google.com/file/d/1mhIxsPwVM4sw87WGjzoLP7egudJj76T5/view?usp=sharing
+Reason: Connection error
+
+Text: PDF
+URL: https://drive.google.com/file/d/1ZjuWYpiXtK7oE7LpXwYMjI1PAC1do1-q/view?usp=sharing
+Reason: Connection error
+
+Text: منصة كورسيرا
+URL: https://www.coursera.org/learn/learning-how-to-learn
+Reason: Connection error
+
+Text: قوالب Google Drive
+URL: https://drive.google.com/drive/folders/1Tax7v7aMb8s4IHIehUzfis8S4ixydLnp?usp=sharing
+Reason: Connection error
+
+Text: قناة يوتيوب
+URL: https://www.youtube.com/@zamericanenglish
+Reason: Connection error
+
+Text: فيديو يوتيوب
+URL: https://youtu.be/Z-0OpHiw5DU?si=kalierU7tp8nHD-D
+Reason: Connection error
+
+Text: قوالب Overleaf
+URL: https://www.overleaf.com/latex/templates/andrewresumeworkshop/yrpwhsjdypmw
+Reason: Connection error
+
+Text: HarvardCV
+URL: https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/
+Reason: Connection error
+
+Text: FlowCV
+URL: https://flowcv.com/
+Reason: Connection error
+
+Text: دليل الشهادات الاحترافية
+URL: https://drive.google.com/file/d/1lNvH1JiT6e6oLCk3CPp6s5pZ5wo2GviA/view?usp=sharing
+Reason: Connection error
+
+SKIPPED LINKS:
+================================================================================
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.figma.mirror
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/app/canva-graphic-design-video/id897446215
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/adobe-illustrator-graphic-art/id1018784575
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.canva.editor
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/figma/id1152747299
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/microsoft-powerpoint/id586449534
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/google-slides/id879478102
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/justinmind/id891264087
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.justinmind.androidapp&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/prezi-viewer/id576717926
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.prezi.android&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/behance-creative-portfolios/id489667151
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.behance.behance&hl=en
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=bg.remove.android&hl=en&gl=US
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/freepik-design-edit-with-ai/id1664092086
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.freepikcompany.freepik&hl=en
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.frontendforever.colorhunt&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/app/id1005098334
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/app/id1495717820
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/app/id1443569124
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/coursera-learn-new-skills/id736535961
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=org.coursera.android
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/edx-courses-by-harvard-mit/id945480667
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=org.edx.mobile
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/udemy-online-courses/id562413829
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.udemy.android
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/khan-academy/id469863705
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=org.khanacademy.android
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/codecademy-go/id1376029326
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.ryzac.codecademygo&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/linkedin-learning/id1084807225
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.linkedin.android.learning&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/skillshare-creativity-classes/id916819843
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.skillshare.Skillshare&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/datacamp-data-ai-and-coding/id1263413087
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.datacamp&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/chegg-study-homework-help/id385758163
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.chegg&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/medium-read-write-stories/id828256236
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.medium.reader&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/in/app/geeksforgeeks-learn-coding/id1641848816
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=free.programming.programming&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/bites-ai-powered-revision/id6475324072
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.shaguf.shaguf_bites
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/edrawmax-ai-diagram-maker/id1663182670
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.edrawsoft.edrawmax.oversea.mobile
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/deepl-translate-write/id1552407475?pt=309298&ct=pageID409-d-first-cta&mt=8
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator&referrer=utm_source%3Ddeepl%26utm_campaign%3DpageID410-d-first-cta%26anid%3Dadmob
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/grammarly-keyboard/id1158877342
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/quizlet/id546473125
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/anki-mobile-flashcards/id373493387
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.ichi2.anki
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/flora-green-focus/id1225155794
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=cc.forestapp
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/notability/id360593530
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/collanote-notes-pdf-markup/id1540956268
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.samsung.android.app.notes&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/microsoft-onenote/id410395246
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.microsoft.office.onenote
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/evernote/id281796108
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.evernote
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/focus-to-do-focus-timer-tasks/id966057213
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/my-study-life-school-planner/id910639339
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.virblue.mystudylife&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/goodnotes-5/id1444383602
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/khotta-school-planner/id1514335791
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=app.axenda&hl=ar&gl=US
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/image-to-text/id1598700044
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.enzipe.imagetotext
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/mind-mapping-mindmeister/id381073026
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.meisterlabs.mindmeister
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/popplet-lite/id364738549
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/simplemind-pro/id305727658
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.modelmakertools.simplemindpro
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/xmind-mind-map-brainstorm/id1286983622
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=net.xmind.doughnut
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/mindnode-mind-map/id1289197285
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/ibrainstorm/id382252825
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/lucidchart/id611543423
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.lucidchart.android.chart&hl=en
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/camscanner-pdf-scanner/id388627783
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.intsig.camscanner
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/notion/id1232780281
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=notion.id
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/trello/id461504587
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.trello
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/todoist/id572688855
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.todoist
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601
+Reason: App store link (often blocks bots)
+
+Text: Android
+URL: https://play.google.com/store/apps/details?id=com.ticktick.task
+Reason: App store link (often blocks bots)
+
+Text: iOS
+URL: https://apps.apple.com/sa/app/faleh-your-personal-assistant/id1616299364
+Reason: App store link (often blocks bots)
