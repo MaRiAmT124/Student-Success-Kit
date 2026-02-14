@@ -256,7 +256,9 @@ ___
 | Notion | أداة شاملة لتنظيم المهام والملاحظات | [Website](https://www.notion.so/) / [iOS](https://apps.apple.com/us/app/notion/id1232780281) / [Android](https://play.google.com/store/apps/details?id=notion.id) |
 | Trello (الأفضل)  |  أداة لإدارة المهام والمشاريع باستخدام اللوحات والقوائم<br>[قالب جاهز لتنظيم المهام](https://trello.com/b/Z4noWVeb) | [Website](https://trello.com/) / [iOS](https://apps.apple.com/us/app/trello/id461504587) / [Android](https://play.google.com/store/apps/details?id=com.trello) |
 | Todoist | أداة لإدارة المهام والمشاريع بشكل منظم وبسيط     | [Website](https://todoist.com/) / [iOS](https://apps.apple.com/us/app/todoist/id572688855) / [Android](https://play.google.com/store/apps/details?id=com.todoist) |
-| TickTick | أداة لإدارة المهام مع ميزات متقدمة مثل تتبع الوقت والتذكيرات | [Website](https://ticktick.com/) / [iOS](https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601) / [Android](https://play.google.com/store/apps/details?id=com.ticktick.task)  | Microsoft To Do | إدارة المهام وإمكانية عمل فئات مختلفة بواجهة بسيطة وسهلة الاستخدام | [iOS](https://apps.apple.com/sa/app/microsoft-to-do/id1212616790?l=ar) / [Android](https://play.google.com/store/apps/details?id=com.microsoft.todos) | 
+| TickTick | أداة لإدارة المهام مع ميزات متقدمة مثل تتبع الوقت والتذكيرات | [Website](https://ticktick.com/) / [iOS](https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601) / [Android](https://play.google.com/store/apps/details?id=com.ticktick.task)  | 
+
+| Microsoft To Do | إدارة المهام وإمكانية عمل فئات مختلفة بواجهة بسيطة وسهلة الاستخدام | [iOS](https://apps.apple.com/sa/app/microsoft-to-do/id1212616790?l=ar) / [Android](https://play.google.com/store/apps/details?id=com.microsoft.todos) |
 
 | فالح |"فالح" مساعدك الشخصي هو تطبيق يساعدك على ترتيب وتنظيم حياتك العملية، الدراسية، والخاصة... حيث يستخدم التطبيق أحدث التقنيات التي تساعدك على ترتيب حياتك. | [iOS](https://apps.apple.com/sa/app/faleh-your-personal-assistant/id1616299364) |
 
